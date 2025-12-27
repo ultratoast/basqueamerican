@@ -50,6 +50,7 @@ const theme = createTheme({
           flexDirection: "column",
           alignItems: "stretch",
           justifyContent: "center", // top
+          width: "100%"
         },
 
         // Defeat system dark mode + ensure form controls stay legible
@@ -58,7 +59,8 @@ const theme = createTheme({
         },
 
         // Make taps easier while cooking
-        a: { color: "#000000" },
+        // lmfao
+        // a: { color: "#000000" },
       },
     },
 
@@ -80,7 +82,8 @@ const theme = createTheme({
     MuiButton: {
       styleOverrides: {
         root: {
-          textTransform: "none",
+          // chagpt doesnt get accessibility
+          // textTransform: "none",
           borderRadius: 14,
           paddingTop: 10,
           paddingBottom: 10,

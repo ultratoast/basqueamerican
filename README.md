@@ -1,3 +1,7 @@
+# Basque american
+
+This is a simple ai generated site i made using vite along with chatgpt 5 to convert an html version of the site i used to host on s3 static sites. The new site is meant to be deployed to aws amplify. New recipes can be added by editing public/recipes.json. Feel free to give them a try!
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

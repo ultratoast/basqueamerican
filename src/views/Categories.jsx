@@ -23,11 +23,14 @@ export default function Categories() {
   const [q, setQ] = useState("")
 
   let filtered = categories
-
+  
   filtered = useMemo(() => {
     const needle = q.trim().toLowerCase()
     if (!needle) return categories
-    return categories.filter((c) => (c.name || c.slug).toLowerCase().includes(needle))
+    return categories.filter(c => (
+      (c.name || c.slug).toLowerCase().includes(needle) || 
+      c.recipes.filter(r => r.name.toLowerCase().includes(needle)).length > 0
+    ))
   }, [categories, q])
 
   return (

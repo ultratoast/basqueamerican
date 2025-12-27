@@ -57,10 +57,10 @@ return useMemo(() => {
 
     const categories = new Map()
     for (const r of recipes) {
-    const cat = r.category || "uncategorized"
-    const catSlug = slugifyCategory(cat) || "uncategorized"
-    if (!categories.has(catSlug)) categories.set(catSlug, { slug: catSlug, name: cat, recipes: [] })
-    categories.get(catSlug).recipes.push(r)
+      const cat = r.category || "uncategorized"
+      const catSlug = slugifyCategory(cat) || "uncategorized"
+      if (!categories.has(catSlug)) categories.set(catSlug, { slug: catSlug, name: cat, recipes: [] })
+      categories.get(catSlug).recipes.push(r)
     }
 
 
