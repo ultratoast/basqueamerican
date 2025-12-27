@@ -7,7 +7,7 @@ import {
 
 import Home from './views/Home'
 import CategoryView from './views/CategoryView'
-import RecipeView from './views/recipeView'
+import RecipeView from './views/RecipeView'
 import Categories from './views/Categories'
 
 export default function App() {
