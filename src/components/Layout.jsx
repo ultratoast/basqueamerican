@@ -22,7 +22,8 @@ export default function Layout({ children }) {
             height: "4rem",
             width: "auto",
             marginRight: "2rem",
-            marginBottom: "0.5rem"
+            marginBottom: "0.5rem",
+            marginTop: "0.5rem",
           }}/>
           <Typography variant="h6" component={RouterLink} to="/" style={{ color: "inherit", textDecoration: "none" }}>
             Recipe Pokédex
