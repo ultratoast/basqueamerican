@@ -23,7 +23,7 @@ export default function Categories() {
   const [q, setQ] = useState("")
 
   let filtered = categories
-  
+
   filtered = useMemo(() => {
     const needle = q.trim().toLowerCase()
     if (!needle) return categories

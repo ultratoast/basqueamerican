@@ -22,6 +22,7 @@ const theme = createTheme({
     h3: { fontSize: "1.5rem", fontWeight: 700, lineHeight: 1.2 },
     h4: { fontSize: "1.25rem", fontWeight: 700, lineHeight: 1.25 },
     h5: { fontSize: "1.1rem", fontWeight: 700, lineHeight: 1.25 },
+    h6: { marginRight: "0.5rem" },
     body1: { fontSize: "1.05rem", lineHeight: 1.6 },
     body2: { fontSize: "1.0rem", lineHeight: 1.6 },
   },
@@ -50,7 +51,7 @@ const theme = createTheme({
           flexDirection: "column",
           alignItems: "stretch",
           justifyContent: "center", // top
-          width: "100%"
+          width: "100%",
         },
 
         // Defeat system dark mode + ensure form controls stay legible
@@ -61,6 +62,7 @@ const theme = createTheme({
         // Make taps easier while cooking
         // lmfao
         // a: { color: "#000000" },
+        a: { border: "none !important" }
       },
     },
 
