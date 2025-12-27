@@ -1,0 +1,949 @@
+[
+  {
+    "id": "basque-bread",
+    "name": "basque bread",
+    "category": "basque",
+    "ingedients": [
+      { "id": "three-cups-warm-water", "name": "warm water", "quantity": "three", "measurement": "cups" },
+      { "id": "seven-cups-flour", "name": "flour", "quantity": "seven", "measurement": "cups" },
+      { "id": "two-tablespoons-yeast", "name": "yeast", "quantity": "two", "measurement": "tablespoons" },
+      { "id": "two-tablespoons-sugar", "name": "sugar", "quantity": "two", "measurement": "tablespoons" },
+      { "id": "one-teaspoon-salt", "name": "salt", "quantity": "one", "measurement": "teaspoon" },
+      { "id": "one-tablespoon-shortening", "name": "shortening (crisco or lard)", "quantity": "one", "measurement": "tablespoon" },
+      { "id": "butter-for-brushing", "name": "melted butter (for brushing)", "quantity": "", "measurement": "" }
+    ],
+    "steps": [
+      { "id": "basque-bread-step-one", "name": "", "time_required": "a couple of minutes", "content": "mix water, sugar, salt, and yeast in a large bowl and let stand briefly" },
+      { "id": "basque-bread-step-two", "name": "", "time_required": "", "content": "add five cups of flour and stir with a fork until incorporated" },
+      { "id": "basque-bread-step-three", "name": "", "time_required": "", "content": "add another half cup of flour and stir again" },
+      { "id": "basque-bread-step-four", "name": "", "time_required": "", "content": "gather dough into a ball, adjusting with flour if sticky or a little water if dry until moist but not sticky" },
+      { "id": "basque-bread-step-five", "name": "", "time_required": "about 1 minute per round", "content": "knead with shortening rubbed on your hand, repeating until shortening is used up, adjusting with small amounts of flour or water as needed" },
+      { "id": "basque-bread-step-six", "name": "", "time_required": "4 minutes", "content": "knead four more minutes, then cover and rest in a warm place for about one hour" },
+      { "id": "basque-bread-step-seven", "name": "", "time_required": "4 minutes", "content": "knead again until dough gets a wax-like shine, then cover and rest for about one hour" },
+      { "id": "basque-bread-step-eight", "name": "", "time_required": "", "content": "shape into rolls and place in a prepared baking dish (buttered or sprayed)" },
+      { "id": "basque-bread-step-nine", "name": "", "time_required": "1 hour", "content": "cover and rest in a warm place for about one hour" },
+      { "id": "basque-bread-step-ten", "name": "", "time_required": "", "content": "preheat oven to 425 degrees fahrenheit" },
+      { "id": "basque-bread-step-eleven", "name": "", "time_required": "20 to 25 minutes", "content": "bake until tops turn gold" },
+      { "id": "basque-bread-step-twelve", "name": "", "time_required": "", "content": "cool rolls on a rack and brush tops with melted butter while cooling" }
+    ],
+    "notes": [
+      { "id": "basque-bread-note-one", "name": "", "description": "larger rolls are good for slicing; smaller rolls make good snacks or dinner rolls" }
+    ]
+  },
+  {
+    "id": "basque-pancakes",
+    "name": "basque pancakes",
+    "description": "this will make 3-5 large pancakes",
+    "category": "basque",
+    "ingedients": [
+      {
+        "id": "one-cup-flour",
+        "name": "flour",
+        "quantity": "one",
+        "measurement": "cup"
+      },
+      {
+        "id": "one-tablespoon-sugar",
+        "name": "sugar",
+        "quantity": "one",
+        "measurement": "tablespoon"
+      },
+      {
+        "id": "one-tablespoon-corn-syrup",
+        "name": "corn syrup (Kero)",
+        "quantity": "one",
+        "measurement": "tablespoon"
+      },
+      {
+        "id": "one-egg",
+        "name": "egg",
+        "quantity": "one",
+        "measurement": ""
+      },
+      {
+        "id": "one-teaspoon-baking-powder",
+        "name": "baking powder",
+        "quantity": "one",
+        "measurement": "teaspoon"
+      },
+      {
+        "id": "one-quarter-teaspoon-salt",
+        "name": "salt",
+        "quantity": "one quarter",
+        "measurement": "teaspoon"
+      },
+      {
+        "id": "one-cup-milk",
+        "name": "milk",
+        "quantity": "one",
+        "measurement": "cup"
+      }
+    ],
+    "steps": [
+      {
+        "id": "basque-pancakes-step-one",
+        "name": "",
+        "time_required": "",
+        "content": "place the flour, sugar, corn syrup, baking powder, salt and the egg into a pan"
+      },
+      {
+        "id": "basque-pancakes-step-two",
+        "name": "",
+        "time_required": "",
+        "content": "use a spoon to blend the egg into the dry ingredients"
+      },
+      {
+        "id": "basque-pancakes-step-three",
+        "name": "",
+        "time_required": "",
+        "content": "add some milk and stir until incorporated"
+      },
+      {
+        "id": "basque-pancakes-step-four",
+        "name": "",
+        "time_required": "",
+        "content": "repeat adding mild and stirring until all milk is in the batter. add more milk to get thinner pancakes"
+      },
+      {
+        "id": "basque-pancakes-step-five",
+        "name": "",
+        "time_required": "",
+        "content": "let the batter sit for 15min. overnight in the fridge is much better"
+      },
+      {
+        "id": "basque-pancakes-step-six",
+        "name": "",
+        "time_required": "",
+        "content": "the pancakes are cooked at approximately 375 degrees (medium low, a 4 on the big burner on a gas range). warm the griddle and make a small pancake to test the temperature"
+      },
+      {
+        "id": "basque-pancakes-step-seven",
+        "name": "",
+        "time_required": "",
+        "content": "pour batter onto the cooking surface. watch as the pancake bubbles. when the whole pankcake has bubbled, flip"
+      },
+      {
+        "id": "basque-pancakes-step-eight",
+        "name": "",
+        "time_required": "",
+        "content": "cook the other side, takes less time. watch the pancake rise"
+      }
+    ],
+    "notes": [
+      {
+        "id": "basque-pancakes-note-one",
+        "name": "",
+        "description": "crepe like pancakes can be made with very thin batter and coat the cooking surface with butter"
+      },
+      {
+        "id": "basque-pancakes-note-two",
+        "name": "",
+        "description": "fruit (Banana etc) pancakes are best using thicker batter (less milk) and cooking a little longer"
+      }
+    ]
+  },
+  {
+    "id": "basque-pie-crust",
+    "name": "basque pie crust",
+    "category": "basque",
+    "ingedients": [
+      { "id": "one-half-cup-ice-water", "name": "ice water", "quantity": "one half", "measurement": "cup" },
+      { "id": "one-and-one-third-cups-flour", "name": "flour", "quantity": "one and one third", "measurement": "cups" },
+      { "id": "one-third-cup-shortening", "name": "shortening (crisco or lard)", "quantity": "one third", "measurement": "cup" },
+      { "id": "one-half-teaspoon-salt", "name": "salt", "quantity": "one half", "measurement": "teaspoon" }
+    ],
+    "steps": [
+      { "id": "pie-crust-step-one", "name": "", "time_required": "", "content": "preheat oven to 425 degrees f" },
+      { "id": "pie-crust-step-two", "name": "", "time_required": "", "content": "make ice water by filling a cup with ice and adding water" },
+      { "id": "pie-crust-step-three", "name": "", "time_required": "", "content": "combine flour, salt, and shortening in a bowl" },
+      { "id": "pie-crust-step-four", "name": "", "time_required": "", "content": "cut shortening into flour until crumbs form (pastry cutter preferred)" },
+      { "id": "pie-crust-step-five", "name": "", "time_required": "", "content": "add water gradually (start with about two tablespoons) and stir until dough comes together into a ball; avoid sticky or flaky dough" },
+      { "id": "pie-crust-step-six", "name": "", "time_required": "15 minutes", "content": "gather dough into a ball and rest before rolling" },
+      { "id": "pie-crust-step-seven", "name": "", "time_required": "", "content": "flour rolling surface and pin using about half the remaining flour" },
+      { "id": "pie-crust-step-eight", "name": "", "time_required": "", "content": "flatten dough into an eight-inch circle, dust, flip, and dust again" },
+      { "id": "pie-crust-step-nine", "name": "", "time_required": "", "content": "roll gently into an eighteen-inch circle, adding flour if it sticks" },
+      { "id": "pie-crust-step-ten", "name": "", "time_required": "", "content": "transfer dough to pie pan by rolling onto pin and unrolling into pan, then press into place" },
+      { "id": "pie-crust-step-eleven", "name": "", "time_required": "", "content": "trim edges and patch uncovered areas with extra dough (use a little water if needed)" },
+      { "id": "pie-crust-step-twelve", "name": "", "time_required": "", "content": "dock the bottom with a fork about sixteen times" },
+      { "id": "pie-crust-step-thirteen", "name": "", "time_required": "about 16 minutes", "content": "bake about sixteen minutes, noting it will continue to cook slightly after removal" }
+    ],
+    "notes": [
+      { "id": "pie-crust-note-one", "name": "", "description": "add water slowly; dough should form a ball without being sticky or flaky" },
+      { "id": "pie-crust-note-two", "name": "", "description": "pie crust rolls best if rested at least fifteen minutes before rolling" }
+    ]
+  },
+  {
+    "id": "allys-mac-n-cheese",
+    "name": "ally’s famous mac n cheese",
+    "category": "american",
+    "ingedients": [
+      {
+        "id": "two-tablespoons-butter",
+        "name": "butter",
+        "quantity": "two",
+        "measurement": "tablespoons"
+      },
+      {
+        "id": "one-half-onion",
+        "name": "white or yellow onion, finely chopped",
+        "quantity": "one half",
+        "measurement": ""
+      },
+      {
+        "id": "five-to-six-cloves-garlic",
+        "name": "fresh garlic, finely chopped",
+        "quantity": "five to six",
+        "measurement": "cloves"
+      },
+      {
+        "id": "two-tablespoons-flour",
+        "name": "all-purpose flour",
+        "quantity": "two",
+        "measurement": "tablespoons"
+      },
+      {
+        "id": "two-cups-milk",
+        "name": "milk",
+        "quantity": "two",
+        "measurement": "cups"
+      },
+      {
+        "id": "three-quarter-teaspoon-sea-salt",
+        "name": "sea salt",
+        "quantity": "three quarters",
+        "measurement": "teaspoon"
+      },
+      {
+        "id": "one-half-teaspoon-dry-mustard",
+        "name": "dry mustard",
+        "quantity": "one half",
+        "measurement": "teaspoon"
+      },
+      {
+        "id": "one-quarter-teaspoon-black-pepper",
+        "name": "ground black pepper",
+        "quantity": "one quarter",
+        "measurement": "teaspoon"
+      },
+      {
+        "id": "eight-ounce-macaroni",
+        "name": "elbow macaroni or other small pasta",
+        "quantity": "one",
+        "measurement": "8 ounce package"
+      },
+      {
+        "id": "two-cups-cheddar-cheese",
+        "name": "sharp cheddar cheese, freshly grated",
+        "quantity": "two",
+        "measurement": "cups"
+      },
+      {
+        "id": "eight-ounce-muenster-cheese",
+        "name": "processed muenster cheese, cut into strips",
+        "quantity": "one",
+        "measurement": "8 ounce package"
+      },
+      {
+        "id": "two-cups-bread-crumbs",
+        "name": "plain bread crumbs",
+        "quantity": "about two",
+        "measurement": "cups"
+      },
+      {
+        "id": "one-half-cup-parmesan",
+        "name": "grated parmesan cheese",
+        "quantity": "about one half",
+        "measurement": "cup"
+      }
+    ],
+    "steps": [
+      {
+        "id": "allys-mac-step-one",
+        "name": "",
+        "time_required": "",
+        "content": "preheat oven to 350 degrees f"
+      },
+      {
+        "id": "allys-mac-step-two",
+        "name": "",
+        "time_required": "",
+        "content": "melt butter in a medium saucepan over medium heat"
+      },
+      {
+        "id": "allys-mac-step-three",
+        "name": "",
+        "time_required": "2 minutes",
+        "content": "saute onion and garlic for about two minutes"
+      },
+      {
+        "id": "allys-mac-step-four",
+        "name": "",
+        "time_required": "1 minute",
+        "content": "stir in flour and cook for one minute, stirring constantly"
+      },
+      {
+        "id": "allys-mac-step-five",
+        "name": "",
+        "time_required": "",
+        "content": "stir in milk, salt, mustard and pepper and cook, stirring frequently, until the mixture boils and thickens"
+      },
+      {
+        "id": "allys-mac-step-six",
+        "name": "",
+        "time_required": "8 to 10 minutes",
+        "content": "cook macaroni in lightly salted boiling water until al dente, then drain"
+      },
+      {
+        "id": "allys-mac-step-seven",
+        "name": "",
+        "time_required": "",
+        "content": "add cheddar and muenster cheeses to the sauce and stir until melted"
+      },
+      {
+        "id": "allys-mac-step-eight",
+        "name": "",
+        "time_required": "",
+        "content": "combine macaroni and cheese sauce in a 2 quart baking dish, mix well, and top with bread crumb mixture"
+      },
+      {
+        "id": "allys-mac-step-nine",
+        "name": "",
+        "time_required": "30 minutes",
+        "content": "bake until hot and bubbly, then let cool for about ten minutes before serving"
+      }
+    ],
+    "notes": [
+      {
+        "id": "allys-mac-note-one",
+        "name": "",
+        "description": "bread crumb mixture consists of plain bread crumbs and grated parmesan cheese"
+      }
+    ]
+  },
+  {
+    "id": "carmel-rolls",
+    "name": "carmel rolls",
+    "category": "american",
+    "ingedients": [
+      { "id": "three-sticks-butter", "name": "butter", "quantity": "three", "measurement": "sticks" },
+      { "id": "three-quarter-cup-sugar", "name": "sugar", "quantity": "three quarters", "measurement": "cup" },
+      { "id": "three-quarter-cup-brown-sugar", "name": "brown sugar", "quantity": "three quarters", "measurement": "cup" },
+      { "id": "three-and-one-quarter-cups-flour", "name": "flour", "quantity": "three and one quarter", "measurement": "cups" },
+      { "id": "one-egg", "name": "egg", "quantity": "one", "measurement": "" },
+      { "id": "one-half-cup-milk", "name": "milk", "quantity": "one half", "measurement": "cup" },
+      { "id": "one-half-cup-warm-water", "name": "warm water", "quantity": "one half", "measurement": "cup" },
+      { "id": "one-tablespoon-yeast", "name": "yeast", "quantity": "one", "measurement": "tablespoon" },
+      { "id": "one-tablespoon-cinnamon", "name": "cinnamon", "quantity": "one", "measurement": "tablespoon" }
+    ],
+    "steps": [
+      { "id": "carmel-rolls-step-one", "name": "", "time_required": "4 minutes", "content": "combine warm water, yeast, and one quarter cup sugar in a large bowl and let sit" },
+      { "id": "carmel-rolls-step-two", "name": "", "time_required": "", "content": "microwave egg and one stick of butter for sixteen seconds" },
+      { "id": "carmel-rolls-step-three", "name": "", "time_required": "", "content": "warm the milk without boiling" },
+      { "id": "carmel-rolls-step-four", "name": "", "time_required": "1 minute", "content": "mix egg, butter, milk, and two cups flour on medium speed" },
+      { "id": "carmel-rolls-step-five", "name": "", "time_required": "", "content": "add remaining flour gradually and knead until dough is no longer sticky but not dry" },
+      { "id": "carmel-rolls-step-six", "name": "", "time_required": "5 minutes", "content": "knead dough until texture changes and becomes smooth" },
+      { "id": "carmel-rolls-step-seven", "name": "", "time_required": "48 minutes", "content": "rest dough in microwave in three sixteen-minute intervals with brief reheating" },
+      { "id": "carmel-rolls-step-eight", "name": "", "time_required": "", "content": "roll dough into a sixteen by twenty four inch rectangle" },
+      { "id": "carmel-rolls-step-nine", "name": "", "time_required": "", "content": "spread softened butter, sugar, and cinnamon over dough and roll into a log" },
+      { "id": "carmel-rolls-step-ten", "name": "", "time_required": "", "content": "cut dough into twelve rolls and place in greased baking dish" },
+      { "id": "carmel-rolls-step-eleven", "name": "", "time_required": "30 minutes", "content": "prepare caramel sauce with remaining butter and brown sugar and pour over rolls" },
+      { "id": "carmel-rolls-step-twelve", "name": "", "time_required": "30 minutes", "content": "bake at 375 degrees until done and let cool before serving or freezing" }
+    ],
+    "notes": [
+      { "id": "carmel-rolls-note-one", "name": "", "description": "rolls can be frozen and reheated individually in the microwave with butter" }
+    ]
+  },
+  {
+    "id": "stuffed-portabella-mushrooms",
+    "name": "stuffed portabella mushrooms",
+    "category": "italian",
+    "ingedients": [
+      { "id": "one-cup-farro", "name": "farro peralto italian whole grain pasta", "quantity": "one", "measurement": "cup" },
+      { "id": "one-half-onion", "name": "white or yellow onion", "quantity": "one half", "measurement": "" },
+      { "id": "two-cloves-garlic-per-mushroom", "name": "garlic", "quantity": "two per mushroom", "measurement": "cloves" },
+      { "id": "one-portabella-cap", "name": "portabella mushroom cap", "quantity": "one", "measurement": "per serving" },
+      { "id": "one-half-tube-soyrizo", "name": "soy-rizo sausage", "quantity": "one half", "measurement": "tube" },
+      { "id": "one-carton-vegetable-stock", "name": "vegetable stock", "quantity": "one", "measurement": "carton" },
+      { "id": "one-package-cherry-tomatoes", "name": "cherry tomatoes, halved lengthwise", "quantity": "one", "measurement": "package" },
+      { "id": "butter", "name": "butter", "quantity": "", "measurement": "" },
+      { "id": "olive-oil", "name": "olive oil", "quantity": "", "measurement": "" }
+    ],
+    "steps": [
+      { "id": "stuffed-mushrooms-step-one", "name": "", "time_required": "", "content": "preheat oven to 400 degrees" },
+      { "id": "stuffed-mushrooms-step-two", "name": "", "time_required": "", "content": "cook farro in vegetable stock until just under al dente" },
+      { "id": "stuffed-mushrooms-step-three", "name": "", "time_required": "", "content": "saute onions and garlic in butter until onions are translucent" },
+      { "id": "stuffed-mushrooms-step-four", "name": "", "time_required": "", "content": "brown the soyrizo lightly in the same pan" },
+      { "id": "stuffed-mushrooms-step-five", "name": "", "time_required": "", "content": "brush mushroom caps with butter" },
+      { "id": "stuffed-mushrooms-step-six", "name": "", "time_required": "", "content": "mix farro, onions, and soyrizo together" },
+      { "id": "stuffed-mushrooms-step-seven", "name": "", "time_required": "", "content": "stuff mushrooms generously and top with cherry tomatoes" },
+      { "id": "stuffed-mushrooms-step-eight", "name": "", "time_required": "15 minutes", "content": "bake until mushrooms are tender and filling is cooked through" }
+    ],
+    "notes": [
+      { "id": "stuffed-mushrooms-note-one", "name": "", "description": "mushrooms release a lot of liquid while baking, so use foil boats to prevent spills" }
+    ]
+  },
+  {
+    "id": "totzke-quinoa-burgers",
+    "name": "grandma totzke’s quinoa burgers",
+    "category": "american",
+    "ingedients": [
+      { "id": "one-cup-quinoa", "name": "quinoa", "quantity": "one", "measurement": "cup" },
+      { "id": "two-cups-water", "name": "water", "quantity": "two", "measurement": "cups" },
+      { "id": "one-quarter-cup-olive-oil", "name": "olive oil", "quantity": "one quarter", "measurement": "cup" },
+      { "id": "six-to-seven-green-onions", "name": "green onions, sliced", "quantity": "six to seven", "measurement": "" },
+      { "id": "one-teaspoon-red-pepper-flakes", "name": "crushed red pepper flakes", "quantity": "one", "measurement": "teaspoon" },
+      { "id": "two-portabella-mushrooms", "name": "portabella mushrooms, finely chopped", "quantity": "two", "measurement": "" },
+      { "id": "one-eighth-teaspoon-salt", "name": "salt", "quantity": "one eighth", "measurement": "teaspoon" },
+      { "id": "black-pepper", "name": "freshly ground pepper", "quantity": "to taste", "measurement": "" },
+      { "id": "one-and-one-half-cups-breadcrumbs", "name": "bread crumbs", "quantity": "one and one half", "measurement": "cups" },
+      { "id": "one-sweet-potato", "name": "cooked sweet potato, mashed", "quantity": "one", "measurement": "" }
+    ],
+    "steps": [
+      { "id": "quinoa-burgers-step-one", "name": "", "time_required": "12 to 15 minutes", "content": "cook rinsed quinoa in water until done, then drain and measure two cups" },
+      { "id": "quinoa-burgers-step-two", "name": "", "time_required": "", "content": "saute onions, red pepper flakes, and mushrooms in olive oil until softened" },
+      { "id": "quinoa-burgers-step-three", "name": "", "time_required": "", "content": "combine cooked quinoa with vegetable mixture and season with salt and pepper" },
+      { "id": "quinoa-burgers-step-four", "name": "", "time_required": "", "content": "cool slightly, then mix in breadcrumbs and mashed sweet potato" },
+      { "id": "quinoa-burgers-step-five", "name": "", "time_required": "", "content": "form mixture into eight to ten patties" },
+      { "id": "quinoa-burgers-step-six", "name": "", "time_required": "3 to 4 minutes per side", "content": "pan fry patties until golden brown on both sides" }
+    ],
+    "notes": [
+      { "id": "quinoa-burgers-note-one", "name": "", "description": "if patties are too soft, add more mashed sweet potato to help bind" }
+    ]
+  },
+  {
+  "id": "allys-pizza-crust",
+  "name": "ally’s pizza crust",
+  "category": "italian",
+  "ingedients": [
+    {
+      "id": "four-cups-flour",
+      "name": "flour",
+      "quantity": "four",
+      "measurement": "cups"
+    },
+    {
+      "id": "one-tablespoon-sea-salt",
+      "name": "sea salt",
+      "quantity": "one",
+      "measurement": "tablespoon"
+    },
+    {
+      "id": "one-teaspoon-sugar",
+      "name": "sugar",
+      "quantity": "one",
+      "measurement": "teaspoon"
+    },
+    {
+      "id": "two-tablespoons-olive-oil",
+      "name": "olive oil",
+      "quantity": "two",
+      "measurement": "tablespoons"
+    },
+    {
+      "id": "one-package-instant-yeast",
+      "name": "dry instant yeast",
+      "quantity": "one",
+      "measurement": "package"
+    },
+    {
+      "id": "one-and-one-half-cups-hot-water",
+      "name": "hot water",
+      "quantity": "about one and one half",
+      "measurement": "cups"
+    }
+  ],
+  "steps": [
+    {
+      "id": "pizza-crust-step-one",
+      "name": "",
+      "time_required": "",
+      "content": "combine flour, salt, sugar, and yeast in a large bowl and mix well"
+    },
+    {
+      "id": "pizza-crust-step-two",
+      "name": "",
+      "time_required": "",
+      "content": "add one tablespoon of olive oil"
+    },
+    {
+      "id": "pizza-crust-step-three",
+      "name": "",
+      "time_required": "",
+      "content": "slowly add hot water while mixing or kneading to prevent clumps or stickiness"
+    },
+    {
+      "id": "pizza-crust-step-four",
+      "name": "",
+      "time_required": "",
+      "content": "continue adding water and kneading until dough becomes waxy and slightly sticky but not wet"
+    },
+    {
+      "id": "pizza-crust-step-five",
+      "name": "",
+      "time_required": "1 hour",
+      "content": "coat bowl with olive oil, place dough inside, cover, and let rise in a warm place"
+    },
+    {
+      "id": "pizza-crust-step-six",
+      "name": "",
+      "time_required": "",
+      "content": "split risen dough in half and roll out, using extra flour to prevent sticking"
+    },
+    {
+      "id": "pizza-crust-step-seven",
+      "name": "",
+      "time_required": "12 to 15 minutes",
+      "content": "bake pizzas at over 400 degrees fahrenheit until crust is cooked through"
+    }
+  ],
+  "notes": [
+    {
+      "id": "pizza-crust-note-one",
+      "name": "",
+      "description": "spreading dough thinner results in a crispier crust"
+    },
+    {
+      "id": "pizza-crust-note-two",
+      "name": "",
+      "description": "non-ported aluminum pizza trays may require a longer bake time"
+    }
+  ]
+},
+{
+  "id": "marybeths-stuffed-artichokes",
+  "name": "marybeth’s stuffed artichokes",
+  "category": "italian",
+  "ingedients": [
+    {
+      "id": "whole-artichokes",
+      "name": "whole artichokes",
+      "quantity": "one",
+      "measurement": "per serving"
+    },
+    {
+      "id": "two-thirds-cup-breadcrumbs",
+      "name": "plain breadcrumbs",
+      "quantity": "about two thirds",
+      "measurement": "cup per artichoke"
+    },
+    {
+      "id": "one-third-cup-parmesan",
+      "name": "grated parmesan cheese",
+      "quantity": "one third",
+      "measurement": "cup per artichoke"
+    },
+    {
+      "id": "one-third-cup-romano",
+      "name": "grated romano cheese",
+      "quantity": "one third",
+      "measurement": "cup per artichoke"
+    },
+    {
+      "id": "one-tablespoon-olive-oil",
+      "name": "olive oil",
+      "quantity": "one",
+      "measurement": "tablespoon per artichoke"
+    }
+  ],
+  "steps": [
+    {
+      "id": "artichokes-step-one",
+      "name": "",
+      "time_required": "",
+      "content": "preheat steamer or oven to 375 degrees fahrenheit"
+    },
+    {
+      "id": "artichokes-step-two",
+      "name": "",
+      "time_required": "",
+      "content": "trim one inch off the top of each artichoke and shorten the stem so it sits flat"
+    },
+    {
+      "id": "artichokes-step-three",
+      "name": "",
+      "time_required": "about 90 seconds",
+      "content": "soften artichokes upside down in steamer or oven until leaves loosen"
+    },
+    {
+      "id": "artichokes-step-four",
+      "name": "",
+      "time_required": "",
+      "content": "mix breadcrumbs, parmesan, and romano cheese in a bowl"
+    },
+    {
+      "id": "artichokes-step-five",
+      "name": "",
+      "time_required": "",
+      "content": "pack breadcrumb mixture generously into artichoke leaves and crown"
+    },
+    {
+      "id": "artichokes-step-six",
+      "name": "",
+      "time_required": "",
+      "content": "drizzle each stuffed artichoke with olive oil"
+    },
+    {
+      "id": "artichokes-step-seven",
+      "name": "",
+      "time_required": "1 hour",
+      "content": "return artichokes to steamer or oven and cook until tender, checking water periodically"
+    }
+  ],
+  "notes": [
+    {
+      "id": "artichokes-note-one",
+      "name": "",
+      "description": "recipe can be made either on the stove with a steamer or baked in the oven"
+    },
+    {
+      "id": "artichokes-note-two",
+      "name": "",
+      "description": "check water levels every 15 to 20 minutes to prevent burning"
+    }
+  ]
+},
+{
+  "id": "great-grandmas-tortillas",
+  "name": "great grandma’s tortillas",
+  "category": "new-mexican",
+  "ingedients": [
+    {
+      "id": "four-to-seven-cups-flour",
+      "name": "flour",
+      "quantity": "four to seven",
+      "measurement": "cups"
+    },
+    {
+      "id": "one-cup-warm-water",
+      "name": "warm water",
+      "quantity": "one",
+      "measurement": "cup"
+    },
+    {
+      "id": "one-tablespoon-salt",
+      "name": "salt",
+      "quantity": "one",
+      "measurement": "tablespoon"
+    },
+    {
+      "id": "one-tablespoon-baking-soda",
+      "name": "baking soda",
+      "quantity": "one",
+      "measurement": "tablespoon"
+    },
+    {
+      "id": "one-half-cup-crisco",
+      "name": "crisco",
+      "quantity": "one half",
+      "measurement": "cup"
+    }
+  ],
+  "steps": [
+    {
+      "id": "tortillas-step-one",
+      "name": "",
+      "time_required": "",
+      "content": "combine salt and baking soda in a bowl"
+    },
+    {
+      "id": "tortillas-step-two",
+      "name": "",
+      "time_required": "",
+      "content": "add four cups of flour and mix"
+    },
+    {
+      "id": "tortillas-step-three",
+      "name": "",
+      "time_required": "",
+      "content": "coat hands with crisco and continue reapplying as needed while kneading"
+    },
+    {
+      "id": "tortillas-step-four",
+      "name": "",
+      "time_required": "",
+      "content": "gradually add water, mixing by hand"
+    },
+    {
+      "id": "tortillas-step-five",
+      "name": "",
+      "time_required": "",
+      "content": "knead until a dough ball forms with a wax-like sheen and is not too sticky"
+    },
+    {
+      "id": "tortillas-step-six",
+      "name": "",
+      "time_required": "",
+      "content": "divide dough into about a dozen small balls and cover to prevent drying"
+    },
+    {
+      "id": "tortillas-step-seven",
+      "name": "",
+      "time_required": "",
+      "content": "heat a tortilla griddle over medium heat and prepare a floured surface"
+    },
+    {
+      "id": "tortillas-step-eight",
+      "name": "",
+      "time_required": "",
+      "content": "roll tortillas thin, alternating directions and adjusting dough as needed"
+    },
+    {
+      "id": "tortillas-step-nine",
+      "name": "",
+      "time_required": "",
+      "content": "cook tortillas on hot griddle until they bubble and brown spots appear, then flip"
+    },
+    {
+      "id": "tortillas-step-ten",
+      "name": "",
+      "time_required": "",
+      "content": "stack finished tortillas to keep warm while cooking the remaining dough"
+    }
+  ],
+  "notes": [
+    {
+      "id": "tortillas-note-one",
+      "name": "",
+      "description": "these tortillas come out thicker than store-bought and puff like pancakes when ready to flip"
+    },
+    {
+      "id": "tortillas-note-two",
+      "name": "",
+      "description": "a small wooden rolling pin works best for shaping"
+    }
+  ]
+},
+{
+  "id": "great-grandpas-beans",
+  "name": "great grandpa’s beans",
+  "category": "new-mexican",
+  "ingedients": [
+    {
+      "id": "dried-beans",
+      "name": "dried beans",
+      "quantity": "",
+      "measurement": ""
+    },
+    {
+      "id": "shortening",
+      "name": "shortening",
+      "quantity": "",
+      "measurement": ""
+    },
+    {
+      "id": "flour",
+      "name": "flour",
+      "quantity": "",
+      "measurement": ""
+    },
+    {
+      "id": "bean-cooking-liquid",
+      "name": "bean cooking liquid",
+      "quantity": "",
+      "measurement": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": "beans-step-one",
+      "name": "",
+      "time_required": "2.5 hours",
+      "content": "cook beans until tender"
+    },
+    {
+      "id": "beans-step-two",
+      "name": "",
+      "time_required": "",
+      "content": "melt shortening in a small pan and add flour, browning lightly"
+    },
+    {
+      "id": "beans-step-three",
+      "name": "",
+      "time_required": "",
+      "content": "add some bean cooking liquid to the pan and simmer"
+    },
+    {
+      "id": "beans-step-four",
+      "name": "",
+      "time_required": "",
+      "content": "add the thickened mixture back into the beans"
+    },
+    {
+      "id": "beans-step-five",
+      "name": "",
+      "time_required": "",
+      "content": "remove some beans and liquid back into the pan and simmer again"
+    },
+    {
+      "id": "beans-step-six",
+      "name": "",
+      "time_required": "30 minutes",
+      "content": "return everything to the pot and cook thirty more minutes"
+    }
+  ],
+  "notes": [
+    {
+      "id": "beans-note-one",
+      "name": "",
+      "description": "this method uses a roux made from bean liquid to thicken and enrich the beans"
+    }
+  ]
+},
+{
+  "id": "mary-beths-meatballs",
+  "name": "mary beths meatballs",
+  "category": "italian",
+  "ingedients": [
+    {
+      "id": "six-pounds-hamburger",
+      "name": "ground hamburger (not less than 15% fat)",
+      "quantity": "six",
+      "measurement": "pounds"
+    },
+    {
+      "id": "two-pounds-italian-sausage",
+      "name": "italian sausage (sweet with fennel or hot with red pepper; hot preferred)",
+      "quantity": "two",
+      "measurement": "pounds"
+    },
+    {
+      "id": "two-baking-potatoes",
+      "name": "baking potatoes (do not peel)",
+      "quantity": "two",
+      "measurement": ""
+    },
+    {
+      "id": "one-tablespoon-salt",
+      "name": "salt",
+      "quantity": "one",
+      "measurement": "tablespoon"
+    },
+    {
+      "id": "eight-cloves-garlic",
+      "name": "garlic",
+      "quantity": "eight",
+      "measurement": "large cloves"
+    },
+    {
+      "id": "one-large-onion",
+      "name": "white onion",
+      "quantity": "one",
+      "measurement": "large"
+    },
+    {
+      "id": "one-bell-pepper",
+      "name": "bell pepper (optional; red, yellow, or orange only)",
+      "quantity": "one",
+      "measurement": ""
+    },
+    {
+      "id": "two-eggs",
+      "name": "eggs",
+      "quantity": "two",
+      "measurement": ""
+    },
+    {
+      "id": "black-or-red-pepper",
+      "name": "black or red pepper (omit if using hot sausage)",
+      "quantity": "to taste",
+      "measurement": ""
+    },
+    {
+      "id": "blending-liquid",
+      "name": "blending liquid (tomato juice, cream, or milk)",
+      "quantity": "enough to blend",
+      "measurement": ""
+    },
+    {
+      "id": "tomato-sauce",
+      "name": "tomato sauce (diluted)",
+      "quantity": "large or several small cans",
+      "measurement": ""
+    },
+    {
+      "id": "tomato-paste",
+      "name": "tomato paste (optional, for heavy sauce)",
+      "quantity": "",
+      "measurement": ""
+    }
+  ],
+  "steps": [
+    {
+      "id": "meatballs-step-one",
+      "name": "",
+      "time_required": "",
+      "content": "combine hamburger and italian sausage in a very large bowl"
+    },
+    {
+      "id": "meatballs-step-two",
+      "name": "",
+      "time_required": "",
+      "content": "blend potatoes, salt, garlic, onion, bell pepper, eggs, pepper, and enough liquid to blend smoothly"
+    },
+    {
+      "id": "meatballs-step-three",
+      "name": "",
+      "time_required": "",
+      "content": "note: blending liquid can be tomato juice, cream, or milk depending on preference"
+    },
+    {
+      "id": "meatballs-step-four",
+      "name": "",
+      "time_required": "",
+      "content": "pour blended mixture over meat and work gently until combined"
+    },
+    {
+      "id": "meatballs-step-five",
+      "name": "",
+      "time_required": "",
+      "content": "form into balls larger than golf balls but smaller than tennis balls"
+    },
+    {
+      "id": "meatballs-step-six",
+      "name": "",
+      "time_required": "about 45 seconds per meatball",
+      "content": "microwave meatballs in a covered dish until just sealed and slightly firm"
+    },
+    {
+      "id": "meatballs-step-seven",
+      "name": "",
+      "time_required": "",
+      "content": "prepare tomato sauce, diluting between one third and one quarter with water or using tomato juice"
+    },
+    {
+      "id": "meatballs-step-eight",
+      "name": "",
+      "time_required": "a couple of hours",
+      "content": "place microwaved meatballs into hot sauce and cook for several hours, timing from when the last batch is added"
+    },
+    {
+      "id": "meatballs-step-nine",
+      "name": "",
+      "time_required": "",
+      "content": "for heavier sauce, remove meatballs and add tomato paste, then return meatballs"
+    }
+  ],
+  "notes": [
+    {
+      "id": "meatballs-note-one",
+      "name": "",
+      "description": "potatoes keep the meatballs moist; in heavy sauce they may fall apart, creating a rich meat sauce"
+    },
+    {
+      "id": "meatballs-note-two",
+      "name": "",
+      "description": "recipe can be scaled; cook in smaller batches if pan size is limited"
+    },
+    {
+      "id": "meatballs-note-three",
+      "name": "",
+      "description": "meatballs freeze well for 9 months to 1 year depending on storage"
+    },
+    {
+      "id": "meatballs-note-four",
+      "name": "",
+      "description": "this recipe relies on feel and judgment more than precise measurements"
+    }
+  ]
+}
+]
