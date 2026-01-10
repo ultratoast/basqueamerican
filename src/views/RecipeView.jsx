@@ -1,4 +1,7 @@
 import {
+  useContext
+} from "react"
+import {
   Link as RouterLink,
   useParams
 } from "react-router-dom"
@@ -16,13 +19,13 @@ import {
   Divider
 } from "@mui/material"
 
-import useRecipes from '../hooks/useRecipes'
 import titleCase from '../helpers/titleCase'
 import Layout from '../components/Layout'
+import { RecipeBookContext } from "../RecipeBookContext";
 
 export default function RecipeView() {
   const { categorySlug, recipeId } = useParams()
-  const { byId, categories } = useRecipes()
+  const { categories, byId } = useContext(RecipeBookContext)
   const recipe = byId.get(recipeId)
 
   const category = categories.find((c) => c.slug === categorySlug)

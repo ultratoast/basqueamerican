@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react"
+import { useMemo, useState, useContext } from "react"
 import {
   Link as RouterLink
 } from "react-router-dom"
@@ -14,12 +14,12 @@ import {
 } from "@mui/material"
 import SearchIcon from "@mui/icons-material/Search"
 
-import useRecipes from '../hooks/useRecipes'
 import titleCase from '../helpers/titleCase'
 import Layout from '../components/Layout'
+import { RecipeBookContext } from "../RecipeBookContext";
 
 export default function Categories() {
-  const { categories } = useRecipes()
+  const { categories } = useContext(RecipeBookContext)
   const [q, setQ] = useState("")
 
   let filtered = categories
