@@ -1,7 +1,5 @@
 import { createContext } from "react"
 
-export const RecipeBookContext = createContext({
-  "categories": {},
-  "byId" : {},
-  "recipes": []
-})
+import { baseState } from './schema/baseState'
+
+export const RecipeBookContext = createContext(baseState)
